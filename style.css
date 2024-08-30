@@ -1,0 +1,87 @@
+
+body{
+    background-color: rgb(246, 255, 127);
+}
+
+.container{
+    background-color:white;
+    border-radius: 40px;
+    /* border: 5px solid black; */
+    margin: 10px 10px 20px 13px;
+    height: 100vh;
+}
+.navcontainer{
+    display: inline-flex;
+    height: 10vh;
+    width: 150vh;
+    
+}
+.navbar{
+    align-items: center;
+    justify-content: space-around;
+}
+.button{
+   margin-top:5px ;
+    background-color: inherit;
+    border: none;
+    padding: 10px 15px 10px 15px;
+    width: 300px;
+}
+.logo{
+    padding: 12px 5px 4px 12px;
+}
+ .ni1 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.ni2 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.ni3 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+.ni4 a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+}
+
+.lambo{
+    display: inline-block;
+    width: 45%;
+    float: right;
+}
+.heading1{
+    width: 45%;
+    font-size: 2rem;
+    font-weight: 10px;
+    padding: 95px 4px 4px 30px;
+}
+.heading2{
+    /* width: 45%; */
+    font-size: 20px;
+    font-weight: 10px;
+    padding: 1px 4px 4px 30px;
+}
+input{
+    width: 250px;
+    height: 35px;
+    border-radius: 8px;
+}
+.mail{
+    padding: 0px 0px 0px 30px;
+}
+.mailbutton{
+    width: 250px;
+    height: 40px;
+    background: inherit;
+    border-radius: 8px;
+    background-color: gold;
+    color:darkred;
+    font-size:18px;
+}
